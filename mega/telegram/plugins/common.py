@@ -37,7 +37,7 @@ async def start_message_handler(c: Client, m: Message):
                     )
     else:
         await m.reply_text(
-            text=f"Hello! My name is Megatron {emoji.MAN_BOWING_DARK_SKIN_TONE}"
+            text=f"<b>Hello, My Name Is 𝗠𝗘𝗚𝗔𝗧𝗥𝗢𝗡 (^。^).\n\nI'm A <u>𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗨𝗥𝗟</u> To <u>𝗙𝗜𝗟𝗘</u> Uploading Bot.\n\nSend Me Any <u>𝗗𝗜𝗥𝗘𝗖𝗧 𝗟𝗜𝗡𝗞</u>, Wait For Me To Respond With <u>𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗</u> Or <u>𝗥𝗘𝗡𝗔𝗠𝗘</u> Before Proceeding To Starting Your Download.\n\n❌ <u>𝗣𝗢𝗥𝗡𝗢𝗚𝗥𝗔𝗣𝗛𝗜𝗖 𝗖𝗢𝗡𝗧𝗘𝗡𝗧𝗦</u> Are Strictly Prohibited & Will Get You Banned Permanently.</b>"
         )
 
 
